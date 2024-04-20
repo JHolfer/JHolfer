@@ -1,9 +1,9 @@
-# Título del Proyecto 
+# Mi Primera Portada 
 
 ![Imagen de Portada](Recursos/gatito.jpeg)
 
 ## Descripción
-Breve descripción del proyecto, objetivos y funcionalidades principales.
+Estoy aprendiendo a manejar GitHub.
 
 ## Características 
 - Característica 1
