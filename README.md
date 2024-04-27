@@ -1,15 +1,14 @@
-# Mi Primera Portada 
+# Mi tablon de anuncios 
 
 ![Imagen de Portada](Recursos/gatito.jpeg)
 
 ## Descripción
-Estoy aprendiendo a manejar GitHub.
+Estoy aprendiendo a manejar GitHub, Soy estudiante del 1º curso de DAW
 
 ## Características 
-- Característica 1
-- Característica 2
-- Característica 3
--
+- Estudiante
+- Futuro Desarrollador web
+
 - ## Instalación Instrucciones para instalar y configurar el proyecto.
 -
 - ## Uso Guía rápida sobre cómo utilizar el proyecto y ejemplos de código.
