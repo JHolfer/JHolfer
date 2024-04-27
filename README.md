@@ -1,6 +1,6 @@
 # Mi tablon de anuncios 
 
-![Imagen de Portada](Recursos/descarga.png)
+![Imagen de Portada](Recursos/gatito.jpeg)
 
 ## Descripción
 Estoy aprendiendo a manejar GitHub, Soy estudiante del 1º curso de DAW
