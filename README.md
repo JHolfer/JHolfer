@@ -8,7 +8,7 @@ Estoy aprendiendo a manejar GitHub, Soy estudiante del 1º curso de DAW
 ## Características 
 - Estudiante
 - Futuro Desarrollador web
-- https://github.com/JHolfer/retogit
+
 
 - ## Instalación Instrucciones para instalar y configurar el proyecto.
 -
